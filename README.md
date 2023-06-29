@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/VJDZKTR.png" width="250" height="300">
+<img src="https://i.imgur.com/VJDZKTR.png" width="350" height="400">
 
 # WePinkVirus
 Simple virus that puts 3 images on the screen and plays audio in a loop and starts with windows.
