@@ -1,7 +1,28 @@
-<img src="https://i.imgur.com/VJDZKTR.png" width="350" height="400">
 
-# WePinkVirus
-Simple virus that puts 3 images on the screen and plays audio in a loop and starts with windows.
- 
-- The project is for educational purposes only.
-- Absolutely sure the code can be improved 10000%
+<p align='center'>
+  <b>🔍 Follow me here 🔍</b><br>  
+  <a href="https://www.youtube.com/channel/UCilF5SGSt71IqTDpGSww6Zg">YouTube</a> |
+  <a href="https://github.com/Mahitozin">Github</a><br><br>
+  <img src="https://i.imgur.com/VJDZKTR.png" style="width: 30%">
+</p>
+
+##  
+
+### 🏆 Features List
+- Windows AutoRun
+- Sound Loop
+
+##   
+
+
+### 📜 License & Warning
+- Make for education propose only !
+- Under licensed MIT MIT License.
+
+##  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" alt="Contribution Welcome">
+  <img src="https://badges.frapsoft.com/os/v3/open-source.svg?v=103" alt="Open Source">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mahitozin.WePinkVirus" alt="Visitor Count">
+</p>
